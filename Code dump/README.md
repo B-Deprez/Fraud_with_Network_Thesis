@@ -1,2 +1,4 @@
-# Fraud_with_Network_Thesis
-The repository which contains all code used for my master's thesis in actuarial and financial engineering. These contain different chunks of code used to extract data from a social network of motor insurance claims. This is leveraged to detect fraudulent claims.
+# Code dump
+This folder contains the jupyter notebooks with the code used to do all the analysis.
+
+Please note that some code blocks were deleted since they reveiled sensitive information. In the event this would "break the code", please reach out and I can see what needs to be added again. 
